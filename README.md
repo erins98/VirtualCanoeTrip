@@ -5,7 +5,7 @@ Name: Aaron Saijan, Project: Programming assignment 3, Class: CS203
 Analysis
 --------
 
-The recursive formula I used calculates the optimal cost matrix along the diagonal of the matrix inputed. It compares the cost of traveling from start to finish with traveling through one post. One post is used because all the paths can be simplified down to using one post if the optimal cost matrix is calculated along the diagonals.
+The recursive formula I used calculates the optimal cost matrix for renting a canoe along the diagonal of the matrix inputed. It compares the cost of traveling from start to finish with traveling through one post. One post is used because all the paths can be simplified down to using one post if the optimal cost matrix is calculated along the diagonals.
 
 
 
@@ -15,8 +15,6 @@ How to compile and run together
 ------------------------------
 
 - launch VirtualCanoeTrip.java using and IDE and compile and run.
-
-or 
 
 Compile
 ------
