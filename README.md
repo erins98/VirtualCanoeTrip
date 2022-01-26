@@ -1,8 +1,6 @@
 # VirtualCanoeTrip
 
--Name: Aaron Saijan
--Project: Programming assignment 3 
--Class: CS203 
+Name: Aaron Saijan, Project: Programming assignment 3, Class: CS203 
 
 Analysis
 --------
